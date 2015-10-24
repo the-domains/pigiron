@@ -1,0 +1,23 @@
+name: pigiron
+favicon: null
+layout_spectrum: 0.9011320639401674
+typography_spectrum: 0.7683935526292771
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors: []
+  brandStrength: 0.024891901528462768
+  lightness: 0.4183018459007144
+  saturation: 0.3643409004434943
+  rhythmicContrast: 0.9952361511532217
+purpose: []
